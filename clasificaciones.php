@@ -1,6 +1,5 @@
 <!doctype html>
-<html lang="en">
-
+<html lang="es">
 <head>
     <title>Clasificacion</title>
     <!-- Required meta tags -->
